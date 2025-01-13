@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://ibb.co.com/Yh5f2dm]" style="margin: 12px; max-width: 1500px" width="100%" alt="Banner">
+<img src="[https://github.com/agentlore/L.O.R.E/blob/main/Lore%20Banner.jpeg]" style="margin: 12px; max-width: 1500px" width="100%" alt="Banner">
   </a>
 </div>
 
