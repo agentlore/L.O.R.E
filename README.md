@@ -1,15 +1,13 @@
 <div align="center">
-  <a href="https://longevities.fun">
-    <img src="https://raw.githubusercontent.com/jacobhjkim/longevity/refs/heads/main/images/banner.png" style="margin: 12px; max-width: 1500px" width="100%" alt="Banner">
   </a>
 </div>
 
 # Decentralized Longevity Research A.I. Agent
 
-Can an autonomous DeSci (Decentralized Science) AI agent improve Bryan Johnson's Blueprint Protocol by reading 
-every single research paper published in bioRxiv & medRxiv?
+Can an Optimized Reasoning Engine
+every single research paper published
 
-**This project is not affiliated with Bryan Johnson.**
+**This project is not affiliated with any platform.**
 
 ## Setup
 
@@ -21,7 +19,7 @@ bun i
 
 ## What's inside?
 
-This repo is a monorepo managed by [Turborepo](https://turbo.build/repo/docs/). It contains a few apps and packages
+This repo is a monorepo managed by L.O.R.E
 
 ### Apps and Packages
 
