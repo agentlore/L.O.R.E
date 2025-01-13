@@ -1,4 +1,5 @@
 <div align="center">
+ <img src="https://raw.githubusercontent.com/agentlore/L.O.R.E/blob/main/Banner.jpeg" style="margin: 12px; max-width: 1500px" width="100%" alt="Banner">
   </a>
 </div>
 
